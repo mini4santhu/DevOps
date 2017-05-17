@@ -1,0 +1,15 @@
+Git Config:
+
+Git config --global user.name "mini4santhu"
+Git config --global user.email "dsantoshreddy@gmail.com"
+
+git clone git@github.com:mini4santhu/DevOps.git
+
+git status -s
+
+git add sample.txt
+
+git commit -m "Added test file"
+git log
+git push origin master
+
